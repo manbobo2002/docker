@@ -7,8 +7,8 @@ WORKDIR /app
 # Copy current directory into the container at /app
 ADD . /app
 
-# Make the container's port 80 available to the outside world
-EXPOSE 80
+# Ensure the port 8080 of container is open to the outside world
+EXPOSE 9000
 
-# Run app.js using node when the container launches
+# Using node and run app.js
 CMD ["node", "app.js"]
