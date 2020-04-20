@@ -7,4 +7,4 @@ Cloud Shell, Docker, Docker Hub, Container Registry
 
 
 # How to setup:  
-Please visit 
+Please visit https://medium.com/google-cloud/introduction-to-docker-and-kubernets-on-gcp-with-hands-on-configuration-part-1-docker-3d9709ee9f6a
